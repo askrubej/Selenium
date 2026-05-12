@@ -67,3 +67,5 @@ coc.verifier_taxe()
 coc.verifier_sous_total()
 coc.cliquer_finish()
 coc.verifier_message()
+
+driver.quit()
